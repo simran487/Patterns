@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HollowTrianglePattern",
+            "request": "launch",
+            "mainClass": "HollowTrianglePattern",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "MirrorImageTrianglePattern",
+            "request": "launch",
+            "mainClass": "MirrorImageTrianglePattern",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumberTrianglePattern",
+            "request": "launch",
+            "mainClass": "ReverseNumberTrianglePattern",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "TriangleStarPattern",
+            "request": "launch",
+            "mainClass": "TriangleStarPattern",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "KPattern",
+            "request": "launch",
+            "mainClass": "KPattern",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "ReverseLeftHalfPyramid",
+            "request": "launch",
+            "mainClass": "ReverseLeftHalfPyramid",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "LeftHalfPyramid",
+            "request": "launch",
+            "mainClass": "LeftHalfPyramid",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "ReverseRightHalfPyramid",
+            "request": "launch",
+            "mainClass": "ReverseRightHalfPyramid",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "RightHalfPyramid",
+            "request": "launch",
+            "mainClass": "RightHalfPyramid",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "SquareFillPattern",
+            "request": "launch",
+            "mainClass": "SquareFillPattern",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "p1",
+            "request": "launch",
+            "mainClass": "p1",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "ButterflyStarPattern",
+            "request": "launch",
+            "mainClass": "ButterflyStarPattern",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
             "name": "DiamondPattern",
             "request": "launch",
             "mainClass": "DiamondPattern",
