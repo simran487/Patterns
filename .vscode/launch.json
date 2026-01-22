@@ -4,8 +4,55 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
-
+        {
+            "type": "java",
+            "name": "RhombusPattern",
+            "request": "launch",
+            "mainClass": "RhombusPattern",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeTriangular",
+            "request": "launch",
+            "mainClass": "PalindromeTriangular",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "ZeroOneTriangle",
+            "request": "launch",
+            "mainClass": "ZeroOneTriangle",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "NumberTriangular",
+            "request": "launch",
+            "mainClass": "NumberTriangular",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "NumberChangingPyramid",
+            "request": "launch",
+            "mainClass": "NumberChangingPyramid",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "NumberIncreasingReversePyramid",
+            "request": "launch",
+            "mainClass": "NumberIncreasingReversePyramid",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "NumberIncreasingPyramid",
+            "request": "launch",
+            "mainClass": "NumberIncreasingPyramid",
+            "projectName": "Patterns_ef3396e4"
+        },
         {
             "type": "java",
             "name": "Current File",
