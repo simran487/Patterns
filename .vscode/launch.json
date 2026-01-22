@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DiamondPattern",
+            "request": "launch",
+            "mainClass": "DiamondPattern",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
             "name": "RhombusPattern",
             "request": "launch",
             "mainClass": "RhombusPattern",
