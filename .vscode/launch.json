@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RightPascalsTriangle",
+            "request": "launch",
+            "mainClass": "RightPascalsTriangle",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "PascalsTriangle",
+            "request": "launch",
+            "mainClass": "PascalsTriangle",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "HollowHourglassPattern",
+            "request": "launch",
+            "mainClass": "HollowHourglassPattern",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
+            "name": "HollowReverseTriangle",
+            "request": "launch",
+            "mainClass": "HollowReverseTriangle",
+            "projectName": "Patterns_ef3396e4"
+        },
+        {
+            "type": "java",
             "name": "HollowTrianglePattern",
             "request": "launch",
             "mainClass": "HollowTrianglePattern",
